@@ -4,7 +4,7 @@ Logs/
 obj/
 Packages/
 ProjectSettings/
-UserSetting/
+UserSettings/
 *.sln
 *.csproj
 *.sln
